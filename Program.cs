@@ -1,8 +1,14 @@
-﻿
-My_method();
-
-void My_method()
+﻿void Method1()
 {
-    Console.WriteLine("I've wrote a method");
+    Console.WriteLine("Hello 1 !");
 }
 
+void Method2()
+{
+    Console.WriteLine("Hello methd2 !");
+}
+
+void Method3()
+{
+    Console.WriteLine("Hello method3 !");
+}
